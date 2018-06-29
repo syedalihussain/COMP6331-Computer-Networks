@@ -1,0 +1,1 @@
+Run the file from the command line using "make mqtt". This assumes that the Python version installed on the assessment machine uses the variable "python3". The program will print out all the SYS calls but not the counter values. Default it is configured to run for 2 minutes for each of the QoS. At the end of 1 minute, statistics will be printed out. So stay put ! ! !
